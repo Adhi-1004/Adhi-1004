@@ -406,46 +406,11 @@ console.log(batman.protectGotham());
         </a>
         <div><strong>Showcase</strong></div>
       </td>
-      <td align="center" width="20%">
-        <a href="https://twitter.com/your-handle">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"/>
-        </a>
-        <div><strong>Updates</strong></div>
-      </td>
     </tr>
   </table>
 </div>
 
----
 
-<div align="center">
-  <h2>📈 REAL-TIME BATMAN METRICS 📈</h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://komarev.com/ghpvc/?username=Adhi-1004&color=FFD700&style=for-the-badge&label=GOTHAM+VISITORS" alt="Profile Views"/>
-        <div><strong>Cave Visitors</strong></div>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/github/followers/Adhi-1004?color=FFD700&style=for-the-badge&label=ALLIES&logo=github&logoColor=white" alt="Followers"/>
-        <div><strong>Allied Heroes</strong></div>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/github/stars/Adhi-1004?color=FFD700&style=for-the-badge&label=BAT+SIGNALS&logo=github&logoColor=white" alt="Stars"/>
-        <div><strong>Bat Signals</strong></div>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
-        <div><strong>Current Status</strong></div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 <div align="center">
   <h2>🌟 BATMAN'S PHILOSOPHY 🌟</h2>
