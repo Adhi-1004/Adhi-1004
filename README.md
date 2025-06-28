@@ -47,7 +47,7 @@
       <td align="center" width="33%" valign="top">
         <h2 style="margin-bottom:0;">🦇 BATMAN DEVELOPER PROFILE 🦇</h2>
         <table>
-          <tr><td><strong>🏢 Base:</strong></td><td>Gotham City, India</td></tr>
+          <tr><td><strong>🏢 Base:</strong></td><td>Chennai</td></tr>
           <tr><td><strong>🎯 Mission:</strong></td><td>Full Stack Development</td></tr>
           <tr><td><strong>⚡ Status:</strong></td><td><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=120&lines=ACTIVE;CODING;DEBUGGING;DEPLOYING" alt="Status Animation" /></td></tr>
           <tr><td><strong>🌙 Specialty:</strong></td><td>Night Development</td></tr>
