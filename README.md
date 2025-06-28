@@ -343,18 +343,35 @@ console.log(batman.protectGotham());
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/Adhi-1004/batman-portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhi-1004&repo=batman-portfolio&theme=gotham&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700&hide_border=false" alt="Batman Portfolio"/>
+        <a href="https://github.com/Adhi-1004/modlrn">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhi-1004&repo=modlrn&theme=gotham&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700&hide_border=false" alt="ModLRN Project"/>
         </a>
+        <div><strong>ModLRN</strong><br/><sub>AI-powered personalized learning platform</sub></div>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/Adhi-1004/gotham-ecommerce">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhi-1004&repo=gotham-ecommerce&theme=gotham&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700&hide_border=false" alt="Gotham Ecommerce"/>
+        <a href="https://github.com/Adhi-1004/smart-attendance-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhi-1004&repo=smart-attendance-system&theme=gotham&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700&hide_border=false" alt="Smart Attendance System"/>
         </a>
+        <div><strong>Smart Attendance System</strong><br/><sub>Real-time face recognition attendance system</sub></div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Adhi-1004/inventory-management-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhi-1004&repo=inventory-management-system&theme=gotham&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700&hide_border=false" alt="Inventory Management System"/>
+        </a>
+        <div><strong>Inventory Management System</strong><br/><sub>Stock tracking and management software</sub></div>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Adhi-1004/cargo-track">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adhi-1004&repo=cargo-track&theme=gotham&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700&hide_border=false" alt="Cargo Track"/>
+        </a>
+        <div><strong>Cargo Track</strong><br/><sub>Real-time cargo tracking system with dashboards</sub></div>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
