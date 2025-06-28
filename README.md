@@ -225,25 +225,24 @@ class DarkKnightDeveloper {
   constructor() {
     this.name = "Adhithya R";
     this.alias = "The Batman of Code";
-    this.location = "Gotham City, India";
-    this.mission = "Protecting the digital realm";
+    this.location = "Chennai";
   }
 
   getSkills() {
     return {
       frontend: {
-        frameworks: ["React", "Next.js", "Vue.js"],
-        styling: ["Tailwind CSS", "Styled Components", "SASS"],
-        languages: ["TypeScript", "JavaScript", "HTML5", "CSS3"]
+        frameworks: ["React"],
+        styling: ["Tailwind CSS", "Styled Components",],
+        languages: [ "JavaScript", "HTML5", "CSS3"]
       },
       backend: {
-        runtime: ["Node.js", "Python", "Express.js"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
+        runtime: ["Node.js", "Python", ],
+        databases: ["MongoDB", "PostgreSQL", MYSQL],
         apis: ["REST", "GraphQL", "WebSocket"]
       },
       devops: {
-        cloud: ["AWS", "Vercel", "Netlify"],
-        containers: ["Docker", "Kubernetes"],
+        cloud: ["AWS", "Vercel" ],
+        containers: ["Docker",],
         tools: ["Git", "GitHub Actions", "Linux"]
       },
       superpower: "Debugging in complete darkness 🌙"
