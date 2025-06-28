@@ -194,25 +194,27 @@
 </div>
 
 <!-- Featured In Section -->
+
 <div align="center">
   <h2>🌟 FEATURED IN 🌟</h2>
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Hackathon%20Winner-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hackathon Winner"/>
-        <div><strong>AI EdTech Hack 2023</strong></div>
+        <img src="https://img.shields.io/badge/Prayacthon%20Winner-FFD700?style=for-the-badge&logo=hackclub&logoColor=black" />
+        <div><strong>1st Place – Prayacthon, Prayatna MIT'25</strong></div>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Best%20UI%2FUX-FFD700?style=for-the-badge&logo=figma&logoColor=black" alt="Best UI/UX"/>
-        <div><strong>Designathon 2022</strong></div>
+        <img src="https://img.shields.io/badge/Byte%20Bash%20Finalist-FFD700?style=for-the-badge&logo=devpost&logoColor=black" />
+        <div><strong>3rd Place – Byte Bash, CEG Kurukshetra'25</strong></div>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Top%203%20Finalist-FFD700?style=for-the-badge&logo=medal&logoColor=black" alt="Top 3 Finalist"/>
-        <div><strong>3D Optimization Challenge</strong></div>
+        <img src="https://img.shields.io/badge/SRM%20Hackathon%20Top%2040-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+        <div><strong>Top 40 – Hackathon 9.0, SRM'25</strong></div>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
