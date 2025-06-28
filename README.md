@@ -111,46 +111,46 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=react" width="80" alt="React"/>
-        <div><strong>React Shield</strong></div>
-        <sub>Component Protection</sub>
+        <img src="https://skillicons.dev/icons?i=python" width="80" alt="Python"/>
+        <div><strong>Python Batarang</strong></div>
+        <sub>Data Analysis & Backend Power</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="80" alt="Node.js"/>
-        <div><strong>Node Grappling Hook</strong></div>
+        <img src="https://skillicons.dev/icons?i=react" width="80" alt="ReactJS"/>
+        <div><strong>React Shield</strong></div>
+        <sub>Frontend Protection</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="80" alt="NodeJS"/>
+        <div><strong>Node Grapple Gun</strong></div>
         <sub>Backend Scaling</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=typescript" width="80" alt="TypeScript"/>
-        <div><strong>TypeScript Armor</strong></div>
-        <sub>Type Safety</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=python" width="80" alt="Python"/>
-        <div><strong>Python Batarang</strong></div>
-        <sub>Data Analysis</sub>
+        <img src="https://skillicons.dev/icons?i=flask" width="80" alt="Flask"/>
+        <div><strong>Flask Blade</strong></div>
+        <sub>Lightweight API Weapon</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="80" alt="Next.js"/>
-        <div><strong>Next.js Batmobile</strong></div>
-        <sub>Fast Deployment</sub>
+        <img src="https://skillicons.dev/icons?i=mysql" width="80" alt="MySQL"/>
+        <div><strong>MySQL Batcave</strong></div>
+        <sub>Data Storage</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=mongodb" width="80" alt="MongoDB"/>
         <div><strong>MongoDB Cave</strong></div>
-        <sub>Data Storage</sub>
+        <sub>NoSQL Vault</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=docker" width="80" alt="Docker"/>
-        <div><strong>Docker Container</strong></div>
-        <sub>Isolation Chamber</sub>
+        <img src="https://skillicons.dev/icons?i=git" width="80" alt="Git"/>
+        <div><strong>Git Utility Belt</strong></div>
+        <sub>Version Control</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=aws" width="80" alt="AWS"/>
-        <div><strong>AWS Watchtower</strong></div>
-        <sub>Cloud Surveillance</sub>
+        <img src="https://skillicons.dev/icons?i=flutter" width="80" alt="Flutter"/>
+        <div><strong>Flutter Cape</strong></div>
+        <sub>Cross-Platform Builds</sub>
       </td>
     </tr>
   </table>
