@@ -7,7 +7,7 @@
   <svg width="100%" height="60" viewBox="0 0 800 60" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect width="800" height="60" fill="#181818"/>
     <g>
-      <rect x="20" y="30" width="40" height="30" fill="#222"/>
+      <rect x="30" y="30" width="40" height="30" fill="#222"/>
       <rect x="80" y="20" width="30" height="40" fill="#333"/>
       <rect x="130" y="35" width="25" height="25" fill="#222"/>
       <rect x="170" y="10" width="50" height="50" fill="#444"/>
